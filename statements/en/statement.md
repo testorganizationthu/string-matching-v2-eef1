@@ -1,0 +1,1 @@
+Find all occurrences of pattern P in text T. Constraints: |T| <= 10^6, |P| <= |T|.
